@@ -6,10 +6,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 
-$primary: #045C64;
-$secondary: #045c64;
-$tertiary: #82aeb2;
-$link-color: #045c64;
+$primary: #491F53;
+$secondary: #491F53;
+$tertiary: #A48FA9;
+$link-color: #491F53;
 $body-color: #3f3f3f;
 $code-color: #3f3f3f;
 $code-block-bg: WhiteSmoke;
@@ -162,6 +162,10 @@ code {
 
 div.callout-note.callout-style-default > .callout-header {
   background-color: $secondary;
+}
+
+div.callout-tip.callout-style-default> .callout-header {
+  background-color: #e5e5e5;
 }
 
 div.callout-note .callout-icon::before {

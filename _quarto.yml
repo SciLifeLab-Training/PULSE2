@@ -17,7 +17,7 @@ website:
 #    logo-alt: ""
     right:
       - text: Home 
-        href: "index.html"
+        href: "https://scilifelab-training.github.io/PULSE/"
         aria-label: "Home"
       - text: About
         href: "about.html"
@@ -25,19 +25,19 @@ website:
       - text: "TST Webinars"
         menu:
           - TSTwebinars.qmd
-          - session1.qmd
-          - session2.qmd
-          - session3.qmd
-          - session4.qmd 
-          - session5.qmd
+#          - session1.qmd
+#          - session2.qmd
+#          - session3.qmd
+#          - session4.qmd 
+#          - session5.qmd
         aria-label: "TST Webinars"
       - text: "Annual Meeting"
         menu:
           - annualworkshop.qmd
-          - workshop-s1.qmd
-          - workshop-s2.qmd
-          - workshop-s3.qmd
-          - workshop-s4.qmd
+#          - workshop-s1.qmd
+#          - workshop-s2.qmd
+#          - workshop-s3.qmd
+#          - workshop-s4.qmd
         aria-label: "Annual Meeting"
       - text: "Resources"
         href: "resources.html"
