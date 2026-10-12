@@ -1,59 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://scilifelab-training.github.io/PULSE/workshop-s3.html</loc>
-    <lastmod>2026-10-12T08:57:43.231Z</lastmod>
-  </url>
-  <url>
-    <loc>https://scilifelab-training.github.io/PULSE/workshop-s1.html</loc>
-    <lastmod>2026-10-12T08:57:43.231Z</lastmod>
-  </url>
-  <url>
-    <loc>https://scilifelab-training.github.io/PULSE/session4.html</loc>
-    <lastmod>2026-10-12T08:57:43.230Z</lastmod>
-  </url>
-  <url>
-    <loc>https://scilifelab-training.github.io/PULSE/session2.html</loc>
-    <lastmod>2026-10-12T08:57:43.230Z</lastmod>
-  </url>
-  <url>
-    <loc>https://scilifelab-training.github.io/PULSE/resources.html</loc>
-    <lastmod>2026-10-12T08:57:43.230Z</lastmod>
-  </url>
-  <url>
-    <loc>https://scilifelab-training.github.io/PULSE/annualworkshop.html</loc>
-    <lastmod>2026-10-12T09:47:20.941Z</lastmod>
-  </url>
-  <url>
-    <loc>https://scilifelab-training.github.io/PULSE/TSTwebinars.html</loc>
-    <lastmod>2026-10-12T09:33:27.219Z</lastmod>
+    <loc>https://scilifelab-training.github.io/PULSE/home_gallery.html</loc>
+    <lastmod>2026-10-12T08:57:43.229Z</lastmod>
   </url>
   <url>
     <loc>https://scilifelab-training.github.io/PULSE/about.html</loc>
     <lastmod>2026-10-12T09:38:39.125Z</lastmod>
   </url>
   <url>
-    <loc>https://scilifelab-training.github.io/PULSE/home_gallery.html</loc>
-    <lastmod>2026-10-12T08:57:43.229Z</lastmod>
+    <loc>https://scilifelab-training.github.io/PULSE/TSTwebinars.html</loc>
+    <lastmod>2026-10-12T09:33:27.219Z</lastmod>
   </url>
   <url>
-    <loc>https://scilifelab-training.github.io/PULSE/session1.html</loc>
+    <loc>https://scilifelab-training.github.io/PULSE/annualworkshop.html</loc>
+    <lastmod>2026-10-12T09:47:20.941Z</lastmod>
+  </url>
+  <url>
+    <loc>https://scilifelab-training.github.io/PULSE/resources.html</loc>
     <lastmod>2026-10-12T08:57:43.230Z</lastmod>
-  </url>
-  <url>
-    <loc>https://scilifelab-training.github.io/PULSE/session3.html</loc>
-    <lastmod>2026-10-12T08:57:43.230Z</lastmod>
-  </url>
-  <url>
-    <loc>https://scilifelab-training.github.io/PULSE/session5.html</loc>
-    <lastmod>2026-10-12T08:57:43.230Z</lastmod>
-  </url>
-  <url>
-    <loc>https://scilifelab-training.github.io/PULSE/workshop-s2.html</loc>
-    <lastmod>2026-10-12T08:57:43.231Z</lastmod>
-  </url>
-  <url>
-    <loc>https://scilifelab-training.github.io/PULSE/workshop-s4.html</loc>
-    <lastmod>2026-10-12T08:57:43.231Z</lastmod>
   </url>
 </urlset>
